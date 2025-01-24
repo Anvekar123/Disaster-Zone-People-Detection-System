@@ -1,5 +1,5 @@
 # Disaster-Zone-People-Detection-System
-##Overview
+## Overview
 The prototype is designed to assist in locating and counting people trapped in a room during a natural calamity. It employs PIR sensors, FSR sensors, GPS, and Arduino UNO microcontrollers to detect the number of people and transmit data via Bluetooth. The receiver then displays this information, including the location coordinates, on an LCD, enabling rescuers to act efficiently.
 
 ### Transmitter Unit
